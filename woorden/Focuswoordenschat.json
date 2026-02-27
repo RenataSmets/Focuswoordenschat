@@ -1,0 +1,45 @@
+{
+  "versie": 1,
+  "items": [
+    {
+      "afbeelding": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/Het schilderij.png",
+      "audio": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/Het schilderij.webm",
+      "naam": "Het schilderij"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/Het penseel.png",
+      "audio": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/Het penseel.webm",
+      "naam": "Het penseel"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/Het museum.png",
+      "audio": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/Het museum.webm",
+      "naam": "Het museum"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/Het kunstwerk.png",
+      "audio": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/Het kunstwerk.webm",
+      "naam": "Het kunstwerk"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/De kameleon.png",
+      "audio": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/De kameleon.webm",
+      "naam": "De kameleon"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/De vormen.png",
+      "audio": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/De vormen.webm",
+      "naam": "De vormen"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/Het zelfportret.png",
+      "audio": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/Het zelfportret.webm",
+      "naam": "Het zelfportret"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/De kunstenaar.png",
+      "audio": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/De kunstenaar.webm",
+      "naam": "De kunstenaar"
+    }
+  ]
+}
