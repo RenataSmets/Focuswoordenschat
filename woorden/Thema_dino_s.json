@@ -1,0 +1,45 @@
+{
+  "versie": 1,
+  "items": [
+    {
+      "afbeelding": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/De dinosaurus.png",
+      "audio": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/De dinosaurus.webm",
+      "naam": "De dinosaurus"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/De vleeseter.png",
+      "audio": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/De vleeseter.webm",
+      "naam": "De vleeseter"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/De planteneter.png",
+      "audio": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/De planteneter.webm",
+      "naam": "De planteneter"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/De schubben.png",
+      "audio": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/De schubben.webm",
+      "naam": "De schubben"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/De vulkaanuitbarsting.png",
+      "audio": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/De vulkaanuitbarsting.webm",
+      "naam": "De vulkaanuitbarsting"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/Opgraven.png",
+      "audio": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/Opgraven.webm",
+      "naam": "Opgraven"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/Het fossiel.png",
+      "audio": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/Het fossiel.webm",
+      "naam": "Het fossiel"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/Het skelet.png",
+      "audio": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/Het skelet.webm",
+      "naam": "Het skelet"
+    }
+  ]
+}
