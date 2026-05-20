@@ -1,0 +1,45 @@
+{
+  "versie": 1,
+  "items": [
+    {
+      "afbeelding": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/DE DUIKBOOT.png",
+      "audio": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/DE DUIKBOOT.webm",
+      "naam": "DE DUIKBOOT"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/DE HAAI.png",
+      "audio": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/DE HAAI.webm",
+      "naam": "DE HAAI"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/DE INKTVIS.png",
+      "audio": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/DE INKTVIS.webm",
+      "naam": "DE INKTVIS"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/DE KWAL.png",
+      "audio": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/DE KWAL.webm",
+      "naam": "DE KWAL"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/DE ZEEBODEM.png",
+      "audio": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/DE ZEEBODEM.webm",
+      "naam": "DE ZEEBODEM"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/HET KORAAL.png",
+      "audio": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/HET KORAAL.webm",
+      "naam": "HET KORAAL"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/HET ZEEPAARDJE.png",
+      "audio": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/HET ZEEPAARDJE.webm",
+      "naam": "HET ZEEPAARDJE"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/HET ZEEWIER.png",
+      "audio": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/HET ZEEWIER.webm",
+      "naam": "HET ZEEWIER"
+    }
+  ]
+}
