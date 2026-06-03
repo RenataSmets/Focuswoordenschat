@@ -1,0 +1,45 @@
+{
+  "versie": 1,
+  "items": [
+    {
+      "afbeelding": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/DE ACROBAAT.png",
+      "audio": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/DE ACROBAAT.webm",
+      "naam": "DE ACROBAAT"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/DE CIRCUSTENT.png",
+      "audio": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/DE CIRCUSTENT.webm",
+      "naam": "DE CIRCUSTENT"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/DE CLOWN.png",
+      "audio": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/DE CLOWN.webm",
+      "naam": "DE CLOWN"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/DE DIRECTEUR.png",
+      "audio": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/DE DIRECTEUR.webm",
+      "naam": "DE DIRECTEUR"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/DE GOOCHELAAR.png",
+      "audio": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/DE GOOCHELAAR.webm",
+      "naam": "DE GOOCHELAAR"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/DE POPCORN.png",
+      "audio": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/DE POPCORN.webm",
+      "naam": "DE POPCORN"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/HET APPLAUS.png",
+      "audio": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/HET APPLAUS.webm",
+      "naam": "HET APPLAUS"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/HET PUBLIEK.png",
+      "audio": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/HET PUBLIEK.webm",
+      "naam": "HET PUBLIEK"
+    }
+  ]
+}
