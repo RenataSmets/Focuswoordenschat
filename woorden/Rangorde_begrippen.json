@@ -1,0 +1,40 @@
+{
+  "versie": 1,
+  "items": [
+    {
+      "afbeelding": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/EERSTE.png",
+      "audio": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/EERSTE.webm",
+      "naam": "EERSTE"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/MIDDELSTE.png",
+      "audio": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/MIDDELSTE.webm",
+      "naam": "MIDDELSTE"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/VOORLAATSTE.png",
+      "audio": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/VOORLAATSTE.webm",
+      "naam": "VOORLAATSTE"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/LAATSTE.png",
+      "audio": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/LAATSTE.webm",
+      "naam": "LAATSTE"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/TUSSEN DE TWEE MANNETJES.png",
+      "audio": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/TUSSEN DE TWEE MANNETJES.webm",
+      "naam": "TUSSEN DE TWEE MANNETJES"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/JUIST VOOR, VORIGE.png",
+      "audio": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/JUIST VOOR, VORIGE.webm",
+      "naam": "JUIST VOOR, VORIGE"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/JUIST NA, VOLGENDE.png",
+      "audio": "https://raw.githubusercontent.com/RenataSmets/Focuswoordenschat/main/woorden/JUIST NA, VOLGENDE.webm",
+      "naam": "JUIST NA, VOLGENDE"
+    }
+  ]
+}
